@@ -24,6 +24,7 @@ PRODUCT_PACKAGES += \
     libreference-ril \
     libril \
     android.hardware.radio@1.0 \
+    android.hardware.radio@1.1 \
     android.hardware.radio.deprecated@1.0
 
 # IPv6
